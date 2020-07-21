@@ -1,2 +1,2 @@
 # Helloworld
-It is a tradition of start the learning of every program language.
+It is a tradition of starting to learn every programing language.
